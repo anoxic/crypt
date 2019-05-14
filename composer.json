@@ -1,0 +1,6 @@
+{
+    "name": "root/crypt",
+    "require": {
+        "phpseclib/phpseclib": "^2.0"
+    }
+}
